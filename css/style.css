@@ -119,7 +119,7 @@ label, a, button {-o-tap-highlight-color:rgba(0, 0, 0, 0);-ms-tap-highlight-colo
   .visual_wrap .caption p{line-height:32px;font-size:20px}
 
   .contents .section{margin-bottom:60px}
-  .contents .title{font-size:18px}
+  .contents .title{line-height:23px;font-size:18px}
   .contents .title span{font-size:16px}
   .contents .contact_wrap .tit{margin-bottom:0;font-size:18px}
   .contents .contact_wrap .con{font-size:14px;white-space: nowrap;}
