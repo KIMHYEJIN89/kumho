@@ -14,7 +14,7 @@ $( document ).ready(function() {
       breakpoint:750,
       settings: {
         slidesToShow: 1,
-        slidesToScroll: 2,
+        slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 3000,
         arrows: true
