@@ -13,17 +13,13 @@ $( document ).ready(function() {
       breakpoint:750,
       settings: {
         slidesToShow: 1,
-        slidesToScroll: 2
+        slidesToScroll: 2,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        arrows: true
       }
     }
   ]
 });
 
 });
-
-var mapOptions = {
-  center: new naver.maps.LatLng(37.3595704, 127.105399),
-  zoom: 10
-};
-
-var map = new naver.maps.Map('map', mapOptions);

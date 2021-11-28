@@ -120,8 +120,10 @@ label, a, button {-o-tap-highlight-color:rgba(0, 0, 0, 0);-ms-tap-highlight-colo
 
   .contents .section{margin-bottom:60px}
   .contents .title{font-size:18px}
-  .contents .contact_wrap .tit{font-size:18px}
-  .contents .contact_wrap .con{font-size:15px}
+  .contents .title span{font-size:16px}
+  .contents .contact_wrap .tit{margin-bottom:0;font-size:18px}
+  .contents .contact_wrap .con{font-size:14px;white-space: nowrap;}
+  .contents .product_wrap .slick-slide .txt{font-size:16px}
   .contents .product_wrap .slick-next{right:5px;z-index:1;color:#fff}
   .contents .product_wrap .slick-prev{left:5px;z-index:1;color:#fff}
   .contents .product_wrap .slick-next::before,
