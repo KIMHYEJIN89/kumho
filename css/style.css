@@ -127,11 +127,12 @@ label, a, button {-o-tap-highlight-color:rgba(0, 0, 0, 0);-ms-tap-highlight-colo
   .contents .product_wrap .slick-next::before,
   .contents .product_wrap .slick-prev::before{color:#fff}
 
+  .contents .map_wrap {margin-bottom:20px}
   .contents .map_wrap .mapping{width:100%;height:100%;}
   .contents .map_wrap .mapping .txt{font-size:14px}
 
   .footer .footer_inner{height:100%;text-align: center;}
-  .footer .footer_logo{position:relative;left:0px;top:0px;padding:20px 0;margin:0}
+  .footer .footer_logo{position:relative;left:0px;top:0px;padding:20px 0;margin:0 0 10px}
   .footer .footer_txt{position:relative;left:0px;top:0px;padding:0px 20px 20px;}
 
  }
